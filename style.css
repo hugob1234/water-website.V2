@@ -395,7 +395,7 @@ button {
   }
 
   50% {
-    color: blue;
+    color: white;
   }
 
   100% {
@@ -413,11 +413,11 @@ h1 {
   }
 
   50% {
-    font-size: 30px;
+    font-size: 20px;
   }
 
   100% {
-    font-size: 45px;
+    font-size: 25px;
   }
 }
 
